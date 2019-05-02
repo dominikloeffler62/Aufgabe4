@@ -150,7 +150,7 @@
             <id>central</id>
             <name>central maven repo</name>
             <url>
-                https://kube.informatik.hs-furtwangen.de/nexus/repository/central/
+                https://webtech.informatik.hs-furtwangen.de/nexus/repository/central/
             </url>
         </repository>
     </repositories>
